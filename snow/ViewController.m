@@ -19,7 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor blackColor];
-    
+    NSLog(@"ssssssssssssssssss");
     // 创建粒子Layer
     CAEmitterLayer *snowEmitter = [CAEmitterLayer layer];
     // 粒子发射位置
